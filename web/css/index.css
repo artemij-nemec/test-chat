@@ -1,0 +1,11 @@
+#chat-window {
+    height: 300px;
+    border: 1px solid black;
+    overflow: auto;
+}
+.name {
+    width: 20%;
+}
+.date {
+    width: 20%;
+}
